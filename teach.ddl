@@ -1,5 +1,5 @@
 create table teach(
-  name integer,
+  name string,
   designation string,
   class_assigned string,
   qualification string);
