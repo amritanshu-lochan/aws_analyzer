@@ -3,4 +3,4 @@ as
 select
 ID,
 NAME,
-SCHOOL;
+SCHOOL from student;
