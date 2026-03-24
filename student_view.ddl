@@ -4,4 +4,4 @@ select
 ID,
 NAME,
 SCHOOL,
-CLASS;
+CLASS from student;
